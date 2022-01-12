@@ -1,6 +1,6 @@
 Ohjeita kommennoista ja tiedoston muotoilusta
 _________________________________________________________________________________________________________________________
-Git add - Lisää tiedoston sisältö hakemistoon
+Git add - Lisää tiedoston sisältö hakemistoon  
 Git commit - Tallentaa muutokset arkistoon
 Git-status - Näyttä työn tilan
 Git-push - Päivitä etäviitteet ja niihin liittyvät objektit
