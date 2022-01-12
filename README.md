@@ -8,3 +8,6 @@ Git-status - Näyttä työn tilan
 Git-push - Päivitä etäviitteet ja niihin liittyvät objektit  
 
 Git-branch - Listaa, luo tai poista oksia  
+
+Git-checkout - Vaihda juuria tai palauta toimivat juuritiedostot
+
